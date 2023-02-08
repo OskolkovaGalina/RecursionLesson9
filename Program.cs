@@ -26,7 +26,7 @@
 Console.WriteLine("Введите начальное число M:");
 int numberM = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите начальное число M:");
+Console.WriteLine("Введите начальное число N:");
 int numberN = int.Parse(Console.ReadLine());
 
 ///Метод нахождения суммы натуральных элементов в промежутке от M до N
